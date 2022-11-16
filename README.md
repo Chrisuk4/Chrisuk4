@@ -1,5 +1,5 @@
 ### Hi there, Im a programmer from Finland who loves to work on his projects. I mainly program in C#, JS and CSS. 
-    Im a 17Yo dude from Finland who loves programming and playing games like usual.
+    Im a 18Yo dude from Finland who loves programming and playing games like usual.
     Currently I am making my own Cryptocurrency (PTC) wich is not published yet.
     
     Fun Facts
