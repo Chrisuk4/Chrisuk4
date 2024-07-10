@@ -1,4 +1,4 @@
-### Hi there, Im a programmer from Finland who loves to work on his projects. I mainly program in C#, Python, JS and CSS. 
+### Hi there, Im a programmer from Finland who loves to work on his projects. I mainly program in C#, Python and JS
     Im a 20Yo dude from Finland who loves programming and playing games like usual.
     
     Fun Facts
